@@ -1,8 +1,8 @@
-library focused_menu;
+library focus_copy;
 
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:focused_menu/modals.dart';
+import 'package:focus_copy/modals.dart';
 
 class FocusedMenuHolder extends StatefulWidget {
   final Widget child;
